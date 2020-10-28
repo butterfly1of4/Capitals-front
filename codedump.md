@@ -1,30 +1,4 @@
-[
-    {"model": "capitals.States",
-     "fields": {
-        "name": "Alabama",
-        "capital": "Montgomery"
-    }
-    }, 
-    {"model": "capitals.States",
-    "fields": {
-        "name": "Alaska",
-        "capital": "Juneau"}
-    }, 
-    {"model": "capitals.States",
-    "fields": {
-        "name": "Arizona",
-        "capital": "Phoenix"}
-    }, 
-    {"model": "capitals.States",
-    "fields": {
-        "name": "Arkansas",
-        "capital": "Little Rock"}
-    }, 
-    {"model": "capitals.States",
-    "fields": {
-        "name": "California",
-        "capital": "Sacramento"}
-    }, 
+, 
     {"model": "capitals.States",
     "fields": {
         "name": "Colorado",
@@ -251,4 +225,3 @@
         "capital": "Cheyenne"}
     }]
     
-     

@@ -76,11 +76,11 @@ WSGI_APPLICATION = 'capitals_django.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgreSQL',
+        'ENGINE': 'django.db.backends.postgresql',
         'NAME': "capitals",
         "USER": "player",
         "PASSWORD": "player",
-        "HOST": "LOCAL HOST"
+        "HOST": "localhost"
     }
 }
 
