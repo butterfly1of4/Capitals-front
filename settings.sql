@@ -5,7 +5,7 @@ GRANT ALL PRIVILEGES ON DATABASE capitals TO player;
 --instructions:
 
 -- if you already have an capitals database run:
---DROP DATABASE state_capitals;
+--DROP DATABASE capitals;
 --DROP USER player;
 
 --Then, to create capitals database in psql run inside top level api directory:
