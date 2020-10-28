@@ -1,27 +1,258 @@
 [
-    {"model": "States",
+    {"model": "capitals.States",
+
      "fields": {
-        "name": "Alabama",
-        "capital": "Montgomery"
+        "state_name": "Alabama",
+        "state_capital": "Montgomery"
     }
     }, 
-    {"model": "States",
+    {"model": "capitals.States",
+
     "fields": {
-        "name": "Alaska",
-        "capital": "Juneau"}
+        "state_name": "Alaska",
+        "state_capital": "Juneau"}
     }, 
-    {"model": "States",
+    {"model": "capitals.States",
+
     "fields": {
-        "name": "Arizona",
-        "capital": "Phoenix"}
+        "state_name": "Arizona",
+        "state_capital": "Phoenix"}
     }, 
-    {"model": "States",
+    {"model": "capitals.States",
+
     "fields": {
-        "name": "Arkansas",
-        "capital": "Little Rock"}
+        "state_name": "Arkansas",
+        "state_capital": "Little Rock"}
     }, 
-    {"model": "States",
+    {"model": "capitals.States",
+
     "fields": {
-        "name": "California",
-        "capital": "Sacramento"}
+        "state_name": "California",
+        "state_capital": "Sacramento"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Colorado",
+        "state_capital": "Denver"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Connecticut",
+        "state_capital": "Hartford"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Delaware",
+        "state_capital": "Dover"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Florida",
+        "state_capital": "Tallahassee"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Georgia",
+        "state_capital": "Atlanta"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Hawaii",
+        "state_capital": "Honolulu"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Idaho",
+        "state_capital": "Boise"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Illinois",
+        "state_capital": "Springfield"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Indiana",
+        "state_capital": "Indianapolis"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Iowa",
+        "state_capital": "Des Moines"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Kansas",
+        "state_capital": "Topeka"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Kentucky",
+        "state_capital": "Frankfort"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Louisiana",
+        "state_capital": "Baton Rouge"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Maine",
+        "state_capital": "Augusta"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Maryland",
+        "state_capital": "Annapolis"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Massachusetts",
+        "state_capital": "Boston"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Michigan",
+        "state_capital": "Lansing"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Minnesota",
+        "state_capital": "St. Paul"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Mississippi",
+        "state_capital": "Jackson"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Missouri",
+        "state_capital": "Jefferson City"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Montana",
+        "state_capital": "Helena"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Nebraska",
+        "state_capital": "Lincoln"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Nevada",
+        "state_capital": "Carson City"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "New Hampshire",
+        "state_capital": "Concord"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "New Jersey",
+        "state_capital": "Trenton"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "New Mexico",
+        "state_capital": "Santa Fe"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "New York",
+        "state_capital": "Albany"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "North Carolina",
+        "state_capital": "Raleigh"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "North Dakota",
+        "state_capital": "Bismarck"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Ohio",
+        "state_capital": "Columbus"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Oklahoma",
+        "state_capital": "Oklahoma City"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Oregon",
+        "state_capital": "Salem"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Pennsylvania",
+        "state_capital": "Harrisburg"}
+    }, 
+    { "model": "capitals.States",
+        "fields": {
+        "state_name": "Rhode Island",
+        "state_capital": "Providence"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "South Carolina",
+        "state_capital": "Columbia"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "South Dakota",
+        "state_capital": "Pierre"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Tennessee",
+        "state_capital": "Nashville"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Texas",
+        "state_capital": "Austin"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Utah",
+        "state_capital": "Salt Lake City"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Vermont",
+        "state_capital": "Montpelier"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Virginia",
+        "state_capital": "Richmond"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Washington",
+        "state_capital": "Olympia"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "West Virginia",
+        "state_capital": "Charleston"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Wisconsin",
+        "state_capital": "Madison"}
+    }, 
+    {"model": "capitals.States",
+    "fields": {
+        "state_name": "Wyoming",
+        "state_capital": "Cheyenne"}
     }]
+    
